@@ -16,9 +16,8 @@ news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
-I completed my bachelor’s degree in Computer Engineering from Sharif University of Technology, I also graduated with an MBA from the University of Tehran.
- just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a Bachelor’s degree in Computer Engineering from Sharif University of Technology and an MBA from the University of Tehran. Currently, I am working as a Software Engineer and Quantitative Financial Analyst at Cobblestone in Dubai, UAE.
+My primary research interests include Applied Machine Learning, Natural Language Processing, and Artificial Intelligence. I have been involved in several projects and publications, particularly in finance and healthcare.
+I am always enthusiastic about the opportunity to collaborate on innovative projects. I invite you to explore my work and connect with me for potential collaborations or discussions in AI and machine learning.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
