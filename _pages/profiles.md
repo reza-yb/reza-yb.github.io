@@ -14,7 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 yarbakhshreza@gmail.com </p>
+      <p>555 yarbakhshrezaa@gmail.com </p>
 
   
 ---
