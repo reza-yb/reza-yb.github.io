@@ -49,26 +49,22 @@
 
   "publications": [
     {
-      "name": "Predicting risk/reward ratio in financial
-markets for asset management using machine learning., (1st revision under review)",
+      "name": "Predicting risk/reward ratio in financial markets for asset management using machine learning., (1st revision under review)",
       "publisher": "Expert Systems with Applications",
       "releaseDate": "2024",
       "url": "https://ar5iv.labs.arxiv.org/html/2311.09148",
-      
+      },
     {
-      "name": "Data-driven Insights into
-COVID-19 Severity Prediction using Machine Learning and Demographic Features"
-      "publisher": "Biomedical
-Physics Engineering Express",
+      "name": "Data-driven Insights into COVID-19 Severity Prediction using Machine Learning and Demographic Features",
+      "publisher": "Biomedical Physics Engineering Express",
       "releaseDate": "2023",
-     
+     },
     {
-      "name": "Artificial intelligence
-effectively predicts the COVID-19 death rate in different UK cities.",
-      "publisher": "Journal of Intelligent Fuzzy
-Systems",
+      "name": "Artificial intelligence effectively predicts the COVID-19 death rate in different UK cities.",
+      "publisher": "Journal of Intelligent Fuzzy Systems",
       "releaseDate": "2022",
       "url": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs219286",
+    }
     
   ],
   "skills": [
@@ -77,8 +73,7 @@ Systems",
       "level": "Master",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Programming Languages:Python (tensorflow, pandas, matplotlib, numpy, seaborn, sklearn, asyncio,
-django), C, Java, SQL"
+        "Programming Languages:Python (tensorflow, pandas, matplotlib, numpy, seaborn, sklearn, asyncio, django), C, Java, SQL"
         "Machine Learning:RF, XGB, SVM, CNN, LSTM, RNN, ARIMA, BERT, GPT, VAR",
         "DevOps:Docker, Kubernetes, CI/CD, AWS Lambda, ELK, Grafana",
        
@@ -114,11 +109,7 @@ django), C, Java, SQL"
   "projects": [
     {
       "name": "• SmartQuant |Sharif ICT Innovation Center",
-      "summary": "◦ Analyzed and predicted crypto market trends, with an emphasis on Bitcoin, utilizing Gradient Boosting
-and Deep Learning models, achieving state of art results.
-◦ Spearheaded a team, which later formed the foundation for Nextrasys. Our work focused on producing a
-trading bot that accurately predicted Bitcoin market movements using ML. Automated reports on trade
-performance were delivered monthly to traders.",
+      "summary": "◦ Analyzed and predicted crypto market trends, with an emphasis on Bitcoin, utilizing Gradient Boosting and Deep Learning models, achieving state of art results.\nSpearheaded a team, which later formed the foundation for Nextrasys. Our work focused on producing a trading bot that accurately predicted Bitcoin market movements using ML. Automated reports on trade performance were delivered monthly to traders.",
       
       "startDate": "2020",
       "endDate": "2021",
@@ -127,11 +118,7 @@ performance were delivered monthly to traders.",
 
 {
       "name": "Nextrasys | Azadi Innovation Factory ",
-      "summary": "◦ Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and
-ML-driven algorithmic trading bots.
-◦ Led a 5-member team on RD, backed by the Wallex grant, to further expand on our initial research and
-refine trading bot capabilities.
-",
+      "summary": "◦ Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and ML-driven algorithmic trading bots.\nLed a 5-member team on RD, backed by the Wallex grant, to further expand on our initial research and refine trading bot capabilities.",
       
       "startDate": "2021",
       "endDate": "2022",
