@@ -65,7 +65,7 @@ Physics Engineering Express",
     {
       "name": "Artificial intelligence
 effectively predicts the COVID-19 death rate in different UK cities.",
-      "publisher": "*Journal of Intelligent Fuzzy
+      "publisher": "Journal of Intelligent Fuzzy
 Systems",
       "releaseDate": "2022",
       "url": "https://content.iospress.com/articles/journal-of-intelligent-and-fuzzy-systems/ifs219286",
@@ -100,36 +100,42 @@ django), C, Java, SQL"
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "ML",
+        "Applied ML",
         "AI",
         "NLP",
        
       ]
     }
   ],
-  "references": [
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    },
-    {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit. D"
-    }
-  ],
+  
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
+      "name": "• SmartQuant |Sharif ICT Innovation Center",
+      "summary": "◦ Analyzed and predicted crypto market trends, with an emphasis on Bitcoin, utilizing Gradient Boosting
+and Deep Learning models, achieving state of art results.
+◦ Spearheaded a team, which later formed the foundation for Nextrasys. Our work focused on producing a
+trading bot that accurately predicted Bitcoin market movements using ML. Automated reports on trade
+performance were delivered monthly to traders.",
+      
+      "startDate": "2020",
+      "endDate": "2021",
+      
+    }
+
+{
+      "name": "Nextrasys | Azadi Innovation Factory ",
+      "summary": "◦ Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and
+ML-driven algorithmic trading bots.
+◦ Led a 5-member team on RD, backed by the Wallex grant, to further expand on our initial research and
+refine trading bot capabilities.
+",
+      
+      "startDate": "2021",
+      "endDate": "2022",
+      
     }
   ]
 }
