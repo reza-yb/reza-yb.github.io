@@ -8,9 +8,12 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>yarbakhshreza@gmail.com</p>
-    <p>Dubai, UAE</p>
+    <p>Email: yarbakhshreza@gmail.com</p>
+    <p><a href="https://scholar.google.com/citations?user=E4Mab8QAAAAJ&hl=en" target="_blank">Google Scholar Profile</a></p>
+    <p><a href="https://ir.linkedin.com/in/reza-yarbakhsh-177015188" target="_blank">LinkedIn Profile</a></p>
+    <p>Location: Dubai, UAE</p>
+
+    
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
