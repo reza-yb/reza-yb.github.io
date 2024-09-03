@@ -10,9 +10,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -20,7 +20,7 @@
     {
       "name": "cobblestone",
       "position": "Software Engineer and Quantitative Financial Analyst",
-      "url": "https://example.com",
+      "url": "https://cobblestoneenergy.com/",
       "startDate": "2021",
       "endDate": "2024"
     }
@@ -31,7 +31,7 @@
       "institution": "University of Tehran",
       "location": "Tehran, Iran",
       "url": "",
-      "area": "Software Development",
+      "area": "MBA",
       "studyType": "Master",
       "startDate": "2022",
       "endDate": "2024"
@@ -40,7 +40,7 @@
       "institution": "Sharif University of Tachnology",
       "location": "Tehran, Iran",
       "url": "",
-      "area": "Software Development",
+      "area": "Computer Engineering",
       "studyType": "Bachelor",
       "startDate": "2017",
       "endDate": "2022"
@@ -109,7 +109,7 @@
 
     {
       "name": "Nextrasys | Azadi Innovation Factory ",
-      "summary": "Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and ML-driven algorithmic trading bots. Led a 5-member team on RD, backed by the Wallex grant, to further expand on our initial research and refine trading bot capabilities.",
+      "summary": "Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and ML-driven algorithmic trading bots. Led a 5-member team on R&D, to further expand on our initial research and refine trading bot capabilities.",
 
       "startDate": "2021",
       "endDate": "2022"
