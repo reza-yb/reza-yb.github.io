@@ -108,8 +108,8 @@
 
   "projects": [
     {
-      "name": "• SmartQuant |Sharif ICT Innovation Center",
-      "summary": "◦ Analyzed and predicted crypto market trends, with an emphasis on Bitcoin, utilizing Gradient Boosting and Deep Learning models, achieving state of art results.\nSpearheaded a team, which later formed the foundation for Nextrasys. Our work focused on producing a trading bot that accurately predicted Bitcoin market movements using ML. Automated reports on trade performance were delivered monthly to traders.",
+      "name": "SmartQuant |Sharif ICT Innovation Center",
+      "summary": "Analyzed and predicted crypto market trends, with an emphasis on Bitcoin, utilizing Gradient Boosting and Deep Learning models, achieving state of art results. Spearheaded a team, which later formed the foundation for Nextrasys. Our work focused on producing a trading bot that accurately predicted Bitcoin market movements using ML. Automated reports on trade performance were delivered monthly to traders.",
 
       "startDate": "2020",
       "endDate": "2021"
@@ -118,7 +118,7 @@
 
     {
       "name": "Nextrasys | Azadi Innovation Factory ",
-      "summary": "◦ Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and ML-driven algorithmic trading bots.\nLed a 5-member team on RD, backed by the Wallex grant, to further expand on our initial research and refine trading bot capabilities.",
+      "summary": "Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and ML-driven algorithmic trading bots. Led a 5-member team on RD, backed by the Wallex grant, to further expand on our initial research and refine trading bot capabilities.",
 
       "startDate": "2021",
       "endDate": "2022"
