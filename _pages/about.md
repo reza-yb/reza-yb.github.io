@@ -10,7 +10,7 @@ profile:
   more_info: >
     <p>Email: yarbakhshreza@gmail.com</p>
     <p><a href="https://scholar.google.com/citations?user=E4Mab8QAAAAJ&hl=en" target="_blank">Google Scholar Profile</a></p>
-    <p><a href="https://ir.linkedin.com/in/reza-yarbakhsh-177015188" target="_blank">LinkedIn Profile</a></p>
+    <p><a href="https://linkedin.com/in/reza-yarbakhsh-177015188" target="_blank">LinkedIn Profile</a></p>
     <p>Location: Dubai, UAE</p>
 
     
