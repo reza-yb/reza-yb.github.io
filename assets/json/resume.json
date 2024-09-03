@@ -72,10 +72,15 @@
       "level": "Master",
       "icon": "",
       "keywords": [
-        "Programming: Python(tensorflow, pandas, matplotlib, numpy, seaborn, sklearn, asyncio, django), C, Java, SQL",
-        "Machine Learning: RF, XGB, SVM, CNN, LSTM, RNN, ARIMA, BERT, GPT, VAR",
-        "DevOps: Docker, Kubernetes, CI/CD, AWS Lambda, ELK, Grafana"
-      ]
+    "Programming Languages:",
+    "Python (tensorflow, pandas, matplotlib, numpy, seaborn, sklearn, asyncio, django)",
+    "C, Java, SQL",
+    "Machine Learning:",
+    "RF, XGB, SVM, CNN, LSTM, RNN, ARIMA, BERT, GPT, VAR",
+    "DevOps:",
+    "Docker, Kubernetes, CI/CD, AWS Lambda, ELK, Grafana"
+]
+
     }
   ],
   "languages": [
