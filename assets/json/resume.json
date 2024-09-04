@@ -94,13 +94,7 @@
       "icon": ""
     }
   ],
-  "interests": [
-    {
-      "name": "",
-      "icon": "fa-solid fa-tag",
-      "keywords": ["Applied ML", "AI", "NLP"]
-    }
-  ],
+  
 
   "projects": [
     {
