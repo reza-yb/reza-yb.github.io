@@ -112,7 +112,8 @@
     {
       "name": "Applied Machine Learning Projects",
       "summary": "Investing potential relationships between blood types and the death rates due to COVID-19 across different countries",
-      "startDate": "2023"
+      "startDate": "2023" ,
+      "endDate": "2023"
     }
   ]
 }
