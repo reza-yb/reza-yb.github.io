@@ -3,7 +3,6 @@
     "name": "Reza Yarbakhsh",
     "image": "",
     "email": "yarbakhshreza@gmail.com",
-    "phone": "",
     "location": {
       "city": "Dubai",
       "countryCode": "UAE"
@@ -25,7 +24,6 @@
       "endDate": "2024"
     }
   ],
-
   "education": [
     {
       "institution": "University of Tehran",
@@ -46,7 +44,6 @@
       "endDate": "2022"
     }
   ],
-
   "publications": [
     {
       "name": "Predicting risk/reward ratio in financial markets for asset management using machine learning., (1st revision under review)",
@@ -94,30 +91,24 @@
       "icon": ""
     }
   ],
-
   "projects": [
     {
       "name": "SmartQuant |Sharif ICT Innovation Center",
       "summary": "Analyzed and predicted crypto market trends, with an emphasis on Bitcoin, utilizing Gradient Boosting and Deep Learning models, achieving state of art results. Spearheaded a team, which later formed the foundation for Nextrasys. Our work focused on producing a trading bot that accurately predicted Bitcoin market movements using ML. Automated reports on trade performance were delivered monthly to traders.",
-
       "startDate": "2020",
       "endDate": "2021"
     },
-
     {
       "name": "Nextrasys | Azadi Innovation Factory ",
       "summary": "Co-founded Nextrasys following our achievements at SmartQuant, focusing on advancing AI and ML-driven algorithmic trading bots. Led a 5-member team on R&D, to further expand on our initial research and refine trading bot capabilities.",
-
       "startDate": "2021",
       "endDate": "2022"
     },
-    
     {
       "name": "Applied Machine Learning Projects",
       "summary": "Bites and Moods: Unraveling the ties between nutrition and depression using Deep Learning in NHANES data",
-
       "startDate": "2024",
       "endDate": "2024"
     }
   ]
-
+}
