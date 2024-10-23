@@ -23,4 +23,4 @@ I hold a Bachelor’s degree in Computer Engineering from Sharif University of T
 My primary research interests include Applied Machine Learning, Natural Language Processing, and Artificial Intelligence. I have been involved in several projects and publications, particularly in finance and healthcare.
 
 I am always enthusiastic about the opportunity to collaborate on innovative projects. I invite you to explore my work and connect with me for potential collaborations or discussions in AI and machine learning.
-![My Image Description](assets/img/Journey.jpg)
+![My Image Description](assets/img/Journey.jpeg)
