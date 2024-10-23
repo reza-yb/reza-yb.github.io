@@ -23,4 +23,5 @@ I hold a Bachelor’s degree in Computer Engineering from Sharif University of T
 My primary research interests include Applied Machine Learning, ML in Finance, AI for Healthcare, and AI for Social Good. I have been involved in several projects and publications, particularly in finance and healthcare.
 
 I am always enthusiastic about the opportunity to collaborate on innovative projects. I invite you to explore my work and connect with me for potential collaborations or discussions in AI and machine learning.
-![My Image Description](assets/img/Journey.jpeg){: style="width:900px;" }
+![My Image Description](assets/img/Journey.jpeg){: style="width:400px; margin-top:-100px;" }
+
