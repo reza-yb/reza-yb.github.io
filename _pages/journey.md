@@ -1,12 +1,9 @@
 ---
 layout: page
-title: journey
+title: My Journey
 permalink: /journey/
-description: My professional and academic journey
 nav: true
 nav_order: 4
 ---
 
-# My Journey
-
-![Journey Timeline]({{ '/assets/img/Journey.jpeg' | relative_url }}){: style="width:100%; max-width:900px; display:block; margin:auto;"}
+![Journey Timeline]({{ '/assets/img/journey.png' | relative_url }}){: style="width:100%; max-width:900px; display:block; margin:auto;"}
